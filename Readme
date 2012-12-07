@@ -1,1 +1,10 @@
 Use the latest pngquant from http://pngquant.org/
+
+In Finder menu click Go-> Go to folder , in dialog box paste the below text
+
+  /usr/bin
+
+bin directory will open, paste the "pngquant" file in the directory from extracted folder.
+Double click the PNGCompression file from extracted folder. Select the folder containing images to be compressed.
+
+Wait for few secs/mins depending on number of images. the task is done. 
