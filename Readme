@@ -8,3 +8,6 @@ bin directory will open, paste the "pngquant" file in the directory from extract
 Double click the PNGCompression file from extracted folder. Select the folder containing images to be compressed.
 
 Wait for few secs/mins depending on number of images. the task is done. 
+
+Note: You can change the arguments from "PngCompression WorkFlow" and then save it as an application.
+current command is find $@ -name '*.png' -exec pngquant -ext .png -speed 1 -force 256 {} \;
